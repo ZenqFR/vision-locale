@@ -9,7 +9,6 @@
   <Script file="colors.lua" />
   <Script file="controller.lua" />
   <Script file="errors.lua" />
-  <Script file="foreverFishing.lua" />
   <Script file="misc.lua" />
   <Script file="groupHealth.lua" />
   <Script file="minimap.lua" />
@@ -18,6 +17,7 @@
   <Script file="objects.lua" />
   <Script file="operators.lua" />
   <Script file="powers.lua" />
+  <Script file="foreverFishing.lua" />
   <Script file="quests.lua" />
   <Script file="scanner.lua" />
   <Script file="speech.lua" />
